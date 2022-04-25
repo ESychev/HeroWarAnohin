@@ -811,9 +811,9 @@ b {
         font-weight: 600;
         text-transform: uppercase;
     }
-    .photo__page {
+    /* .photo__page {
         width: 51%;
-    }
+    } */
     /* .header__text {
         display: none;
     } */
@@ -890,9 +890,9 @@ b {
         font-weight: 600;
         text-transform: uppercase;
     }
-    .photo__page {
+    /* .photo__page {
         width: 51%;
-    }
+    } */
 }
 
 @media(min-width: 700px) {
